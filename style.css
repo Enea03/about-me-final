@@ -1,0 +1,303 @@
+body {
+    background-color: #0A4658;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a:hover {
+    color: #b38814;
+}
+
+.hello {
+    margin-top: 100px;
+    
+}
+
+.navigation {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.photoid {
+    
+    text-align: center;
+    margin-top: 50px;
+ 
+}
+
+img {
+    border-radius: 20px;
+
+}
+
+
+p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+
+}
+
+ul {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+
+}
+
+#about
+{
+margin-top: 50px;
+background-color: #0A4658;
+padding-bottom: 50px;
+
+}
+
+.cequejesuis
+{ 
+    
+    font-size:50px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    
+    
+}
+
+span 
+{ 
+    background-color: #b38814;
+}
+
+.boxdescriptionmoi
+{
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.cequejemaitrise
+{
+    font-size:50px;
+    color: white;
+    text-align: center;
+    padding-top:10px;
+    
+}
+
+
+.container 
+{
+    display: flex;
+}
+#design 
+{
+    text-align: left;
+    width: 500px;
+    height: 350px;
+    padding-top: 5px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background-color: #b38814;
+    box-shadow: 1px 1px 1px 1px rgba(131, 130, 130, 0.24);
+    
+}
+
+.boxillustration {
+    text-align: center;
+    padding-top: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+
+
+#tech {
+    text-align: left;
+    width: 400px;
+    height: 300px;
+    padding-top: 5px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background-color: #b38814;
+    box-shadow: 1px 1px 1px 1px rgba(131, 130, 130, 0.24);
+
+}
+
+.box2 {
+    text-align: center;
+    padding-top: 10px;
+   
+}
+
+#droit
+{
+    text-align: left;
+    width: 500px;
+    height: 350px;
+    padding-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background-color: #b38814;
+    box-shadow: 1px 1px 1px 1px rgba(131, 130, 130, 0.24);
+}
+
+.box3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cequejerealise {
+    font-size:50px;
+    color: white;
+    text-align: center;
+    padding-top:100px;
+}
+
+
+#edhec {
+    text-align: left;
+    width: 1400px;
+    height:350px;
+    padding-top: 5px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    border: 2px dashed #b38814;
+    
+}
+
+.boximageprojet1 { 
+text-align: left;
+margin-top: 10px;
+margin-left: 20px;
+box-shadow: 2px 2px 2px 2px rgba(189, 189, 189, 0.137);
+}
+
+.edhectext {
+    float: right;
+    padding-top: 100px;
+    padding-right: 550px;
+}
+
+.texteehec {
+    float: right;
+}
+
+#conseiletat {
+    text-align: left;
+    width: 1400px;
+    height:350px;
+    padding-top: 5px;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: 2px dashed #b38814;
+}
+
+.boximageprojet2 {
+float: right;
+margin-top: 10px;
+margin-right: 20px;
+box-shadow: 2px 2px 2px 2px rgba(189, 189, 189, 0.137);
+}
+
+.cetext {
+    
+    padding-top: 100px;
+    text-align: left;
+   
+ 
+}
+
+.textece {
+    padding-left: 100px;
+}
+
+
+
+#facilitation {
+    text-align: left;
+    width: 1400px;
+    height:380px;
+    padding-top: 5px;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    border: 2px dashed #b38814;
+}
+
+.boximageprojet3 {
+text-align: left;
+margin-top: 10px;
+margin-left: 20px;
+box-shadow: 2px 2px 2px 2px rgba(189, 189, 189, 0.137);
+}
+
+.textefacilitation {
+    float: right;
+}
+
+.fgtexte {
+    float: right;
+    padding-top: 100px;
+    padding-right: 550px;
+}
+
+
+
+footer {
+    background-color: #b38814;
+    height: 300px;
+}
+
+
+.textefooter {
+    text-align: center;
+}
+
+
+
+.titrefooter {
+    font-size:50px;
+    color: white;
+    text-align: center;
+    padding-top:100px;
+}
+
+.linkfooter {
+    color: white;
+   
+}
+.linkfooter:hover {
+    color: #0A4658;
+}
